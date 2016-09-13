@@ -33,6 +33,10 @@ permalink: /
                     <li><a class="fa fa-2x fa-github" href="https://github.com/{{ site.github_username }}"><span class="description">GitHub</span></a></li>
                     {% endif %}
 
+                    {% if site.resume %}
+                    <li><a class="fa fa-2x file-text-a" href="site.resume"><span class="description">Resume</span></a></li>
+                    {% endif %}
+
                     {% if site.codepen_username %}
                     <li><a class="fa fa-2x fa-codepen" href="https://codepen.io/{{ site.codepen_username }}"><span class="description">CodePen</span></a></li>
                     {% endif %}
