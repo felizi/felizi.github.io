@@ -1,6 +1,6 @@
 # Site settings
 name: Daniel Felizi
-description: "back-end developer"
+description: "software specialist"
 url: "felizi.net"
 
 resume: http://cv.felizi.net/
@@ -10,7 +10,7 @@ linkedin_username: felizi
 stack_of_username: 2370031
 medium_username:  felizi
 blog_url: "/blog"
-email: felizi.daniel@gmail.com
+email: felizi@duck.com
 
 avatar: yes
 avatar_img_path: "imgs/avatar.jpg"
